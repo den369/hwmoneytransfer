@@ -7,7 +7,7 @@
 На тестирование затрачено: 0.1 часа
 
 В результате тестирования выявлены следующие дефекты:
-* shttps://github.com/den369/hwmoneytransfer/issues/1
+* https://github.com/den369/hwmoneytransfer/issues/1
 
 ## Описание процесса тестирования
 
